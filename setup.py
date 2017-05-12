@@ -12,7 +12,6 @@ with open('HISTORY.rst') as history_file:
 requirements = [
     'face_recognition_models',
     'Click>=6.0',
-    'dlib>=19.3.0',
     'numpy',
     'Pillow',
     'scipy>=0.17.0'
